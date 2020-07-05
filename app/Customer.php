@@ -1,0 +1,12 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Customer extends Model
+{
+    protected $fillable = [
+        'name', 'email', 'phone','address','account_holder','photo','account_number','bank_branch','bank_name','city','shopname',
+    ];
+}
