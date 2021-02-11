@@ -27,8 +27,16 @@ vii. Attendance Management
 
 
 ## Built With
-* [Laravel ](https://laravel.com/) - Laravel is a web application framework
-* [MySQL](https://www.mysql.com/) - Database
+* Laravel
+* MySQL
+
+
+## Project Overview
+
+<p align="center">
+   <img src="https://github.com/ssabit/MiniStore/blob/master/gif/minishop.gif">
+</p>
+
 
 ## Authors
 
